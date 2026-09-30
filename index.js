@@ -24,9 +24,9 @@ client.on('message', async (msg) => {
     try {
         const chat = await msg.getChat();
         await chat.sendStateTyping();
-        await delay(1500);
+        await delay(1000);
     } catch (erro) {
-        await delay(1500);
+        await delay(1000);
     }
 
     if (texto === '1') {
