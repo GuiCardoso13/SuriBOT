@@ -1,4 +1,4 @@
-# MedBOT - Assistente Virtual Suri (WhatsApp)
+# SuriBOT - Assistente Virtual Suri (WhatsApp)
 
 Um bot de atendimento automatizado para WhatsApp construído com Node.js e a biblioteca `whatsapp-web.js`. A assistente "Suri" é projetada para realizar a triagem inicial de clientes, exibindo horários de funcionamento e direcionando o contato para os setores corretos da empresa através de links diretos.
 
